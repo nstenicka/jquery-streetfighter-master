@@ -66,6 +66,3 @@ h1,p {
 .isolate{
 	isolation:isolate;
 }
-.hulk-ryu {
-    filter: hue-rotate(90deg);
-}
